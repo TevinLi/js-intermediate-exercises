@@ -24,4 +24,10 @@ list.forEach((item, index) => {
     item.id = index + 10;
     delete item.time;
 });
-console.log(JSON.stringify(list));
+var output = 'var resource = ' + JSON.stringify(list) + ';';
+output = output.replace('[', '[\n')
+    .replace(/\{/g, '    {')
+    .replace(/\}\]/, '}\n]')
+    .replace(/\},/g, '},\n')
+    .replace(/"([a-zA-Z]*)":/g, '$1:');
+console.log(output);
