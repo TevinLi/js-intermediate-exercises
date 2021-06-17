@@ -1,9 +1,9 @@
 MIME-Version: 1.0
-Content-Type: multipart/related; boundary="----=_NextPart_01D762A3.56C60BD0"
+Content-Type: multipart/related; boundary="----=_NextPart_01D76357.7F4F3180"
 
 此文档为“单个文件网页”，也称为“Web 档案”文件。如果您看到此消息，但是您的浏览器或编辑器不支持“Web 档案”文件。请下载支持“Web 档案”的浏览器，如 Windows? Internet Explorer?。
 
-------=_NextPart_01D762A3.56C60BD0
+------=_NextPart_01D76357.7F4F3180
 Content-Location: file:///C:/859B3062/file0194.htm
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/html; charset="gb2312"
@@ -32,16 +32,16 @@ w\:* {behavior:url(#default#VML);}
  <o:DocumentProperties>
   <o:Author>Tevin</o:Author>
   <o:LastAuthor>Tevin</o:LastAuthor>
-  <o:Revision>41</o:Revision>
-  <o:TotalTime>258</o:TotalTime>
+  <o:Revision>42</o:Revision>
+  <o:TotalTime>259</o:TotalTime>
   <o:Created>2021-06-09T03:58:00Z</o:Created>
-  <o:LastSaved>2021-06-16T03:32:00Z</o:LastSaved>
+  <o:LastSaved>2021-06-17T01:02:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>28</o:Words>
-  <o:Characters>160</o:Characters>
+  <o:Words>27</o:Words>
+  <o:Characters>159</o:Characters>
   <o:Lines>1</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>187</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>185</o:CharactersWithSpaces>
   <o:Version>15.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -1341,7 +1341,7 @@ o-bidi-font-family:
 微软雅黑'><span style=3D'mso-list:Ignore'>1.<span style=3D'font:7.0pt "Time=
 s New Roman"'>&nbsp;&nbsp;
 </span></span></span><![endif]><span style=3D'font-size:14.0pt;font-family:=
-"微软雅黑",sans-serif'>实现一个图片轮播组件，并在页面上使用<span
+"微软雅黑",sans-serif'>实现一个图片自动轮播组件，并在页面上使用<span
 lang=3DEN-US><o:p></o:p></span></span></p>
 
 <p class=3DMsoListParagraph style=3D'margin-left:18.0pt;text-indent:-18.0pt;
@@ -1355,10 +1355,10 @@ s New Roman"'>&nbsp;&nbsp;
 lang=3DEN-US><o:p></o:p></span></span></p>
 
 <p class=3DMsoNormal style=3D'margin-left:18.0pt'><span lang=3DEN-US
-style=3D'font-size:14.0pt;font-family:"微软雅黑",sans-serif'>autoPlay<span
+style=3D'font-size:14.0pt;font-family:"微软雅黑",sans-serif'>loop<span
 style=3D'mso-spacerun:yes'>&nbsp; </span></span><span style=3D'font-size:14=
 .0pt;
-font-family:"微软雅黑",sans-serif'>是否自动播放<span lang=3DEN-US><o:p></o:=
+font-family:"微软雅黑",sans-serif'>是否循环播放<span lang=3DEN-US><o:p></o:=
 p></span></span></p>
 
 <p class=3DMsoNormal style=3D'margin-left:18.0pt'><span lang=3DEN-US
@@ -1419,7 +1419,7 @@ ly:"微软雅黑",sans-serif'><o:p>&nbsp;</o:p></span></p>
 
 </html>
 
-------=_NextPart_01D762A3.56C60BD0
+------=_NextPart_01D76357.7F4F3180
 Content-Location: file:///C:/859B3062/file0194.files/themedata.thmx
 Content-Transfer-Encoding: base64
 Content-Type: application/vnd.ms-officetheme
@@ -1481,7 +1481,7 @@ AAAA1gIAAHRoZW1lL3RoZW1lL3RoZW1lMS54bWxQSwECLQAUAAYACAAAACEADdGQn7YAAAAbAQAA
 JwAAAAAAAAAAAAAAAADnCQAAdGhlbWUvdGhlbWUvX3JlbHMvdGhlbWVNYW5hZ2VyLnhtbC5yZWxz
 UEsFBgAAAAAFAAUAXQEAAOIKAAAAAA==
 
-------=_NextPart_01D762A3.56C60BD0
+------=_NextPart_01D76357.7F4F3180
 Content-Location: file:///C:/859B3062/file0194.files/colorschememapping.xml
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/xml
@@ -1491,7 +1491,7 @@ Content-Type: text/xml
  bg1=3D"lt1" tx1=3D"dk1" bg2=3D"lt2" tx2=3D"dk2" accent1=3D"accent1" accent=
 2=3D"accent2" accent3=3D"accent3" accent4=3D"accent4" accent5=3D"accent5" a=
 ccent6=3D"accent6" hlink=3D"hlink" folHlink=3D"folHlink"/>
-------=_NextPart_01D762A3.56C60BD0
+------=_NextPart_01D76357.7F4F3180
 Content-Location: file:///C:/859B3062/file0194.files/image001.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -1558,7 +1558,7 @@ YgckQIAAgfEF5Hz8O3ZCAgQIEBheQM6Hv2IHJECAAIHxBeR8/Dt2QgIECBAYXkDOh79iByRAgACB
 8QXkfPw7dkICBAgQGF5Azoe/YgckQIAAgfEF5Hz8O3ZCAgQIEBhe4A2QCeST99Rt3gAAAABJRU5E
 rkJggk==
 
-------=_NextPart_01D762A3.56C60BD0
+------=_NextPart_01D76357.7F4F3180
 Content-Location: file:///C:/859B3062/file0194.files/header.htm
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/html; charset="gb2312"
@@ -1633,7 +1633,7 @@ r:footnote-continuation-separator'><![if !supportFootnotes]>
 
 </html>
 
-------=_NextPart_01D762A3.56C60BD0
+------=_NextPart_01D76357.7F4F3180
 Content-Location: file:///C:/859B3062/file0194.files/filelist.xml
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/xml; charset="utf-8"
@@ -1646,4 +1646,4 @@ Content-Type: text/xml; charset="utf-8"
  <o:File HRef=3D"header.htm"/>
  <o:File HRef=3D"filelist.xml"/>
 </xml>
-------=_NextPart_01D762A3.56C60BD0--
+------=_NextPart_01D76357.7F4F3180--
